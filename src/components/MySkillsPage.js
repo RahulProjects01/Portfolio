@@ -86,7 +86,7 @@ const MySkillsPage = () => {
     return (
         <ThemeProvider theme={lightTheme}>
             <Box>
-
+{/*  this code  */}
                 <LogoComponent theme='light' />
                 <SocialIcons theme='light' />
                 <PowerButton />
