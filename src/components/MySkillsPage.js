@@ -98,10 +98,10 @@ const MySkillsPage = () => {
                     I’m a skilled Java Full-Stack Developer with expertise in Java and React, focused on creating dynamic web and desktop applications.
                     </Description>
                     <Description>
-                        <strong>I like to Design</strong>
+                        <strong>Skills</strong>
                         <ul>
                             <li>
-                               Java, OOP, API
+                               Java, OOP, API, SQL
                             </li>
                             <li>
                                HTML, CSS, JavaScript
@@ -112,7 +112,7 @@ const MySkillsPage = () => {
                         <strong>FrameWork</strong>
                         <ul>
                             <li>
-                               Spring Boot, React
+                               Spring Boot, Hibernate, React
                             </li>
 
                         </ul>
