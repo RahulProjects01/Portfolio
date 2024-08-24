@@ -86,17 +86,16 @@ const MySkillsPage = () => {
     return (
         <ThemeProvider theme={lightTheme}>
             <Box>
-{/*  this code  */}
                 <LogoComponent theme='light' />
                 <SocialIcons theme='light' />
                 <PowerButton />
                 <ParticleComponent theme='light' />
                 <Main>
                     <Title>
-                    <Develope width={40} height={40} /> Full stack developer
+                    <Develope width={40} height={40} /> Java developer
                     </Title>
                     <Description>
-                    I’m a skilled Full-Stack Developer with expertise in Java and React, focused on creating dynamic web and desktop applications.
+                    I’m a skilled Java Full-Stack Developer with expertise in Java and React, focused on creating dynamic web and desktop applications.
                     </Description>
                     <Description>
                         <strong>I like to Design</strong>

@@ -72,8 +72,8 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        I'm a front-end developer located in India. 
-        I’m a dedicated Full-Stack Developer with a strong foundation in Java and blockchain technology.
+       
+I'm highly skilled Java Developer with 2+ years of experience in full-stack development, specializing in enterprise solutions, microservices, and cloud-native applications. Passionate about delivering high-quality, scalable software.
 <br /> <br/>
 I’ve built dynamic web and desktop applications, led projects, and created decentralized solutions. 
 <br/> <br/>
